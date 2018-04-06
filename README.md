@@ -1,4 +1,4 @@
 # hello-world
 Repository
 
-My nme is Rachel. I'm new to GitHub repositories.
+My name is Rachel. I'm new to GitHub repositories.
